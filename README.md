@@ -39,4 +39,3 @@ FIREBASE_DATABASE_URL=https://<your-project>.firebaseio.com
 ```
 
 -   `php artisan serve`
-"# laravel-notification-channels-FCM-demo" 
