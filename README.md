@@ -2,6 +2,8 @@
 
 > 範例使用 [Laravel FCM (Firebase Cloud Messaging) Notification Channel](https://laravel-notification-channels.com/fcm/#installation).
 
+[教學範例](https://joe94113.github.io/2021/12/26/Laravel-Notification-Channels-FCM/)
+
 ## 效果如下圖
 
 ![](https://i.imgur.com/98Zaci1.gif)
